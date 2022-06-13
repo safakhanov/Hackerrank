@@ -5,10 +5,10 @@ public class Main {
         public static void stdin_stdout(){
 
 
-        String st = sc.next();
-        int a=sc.nextInt();
-        System.out.println("myString is: "+ st);
-        System.out.println("myInt is: " + a);
+//        String st = sc.next();
+//        int a=sc.nextInt();
+//        System.out.println("myString is: "+ st);
+//        System.out.println("myInt is: " + a);
 
     }
     public static void ifElse(){
